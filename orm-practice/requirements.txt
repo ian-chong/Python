@@ -1,0 +1,3 @@
+certifi==2018.11.29
+peewee==3.8.2
+wincertstore==0.2

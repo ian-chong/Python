@@ -1,0 +1,2 @@
+SELECT * FROM votes
+WHERE voter_id = '524';
